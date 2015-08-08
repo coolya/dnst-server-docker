@@ -13,6 +13,7 @@ RUN mkdir /dnst &&  mkdir /dnst-conf && mkdir /steamcmd && cd /steamcmd && \
 RUN /steamcmd/steamcmd.sh +login anonymous +force_install_dir /dnst +app_update 343050 validate +quit
 
 ADD ./start.sh /start
+ADD dedicated_server_mods_setup.lua /dnst/mods/dedicated_server_mods_setup.lua
 RUN chmod +x /start
 
 EXPOSE 10999/udp
