@@ -4,7 +4,7 @@ return {
                berrybush = "often",
                cactus = "default",
                carrot = "often",
-               mushroom = "default",
+               mushroom = "default"
        },
        misc = {
                autumn = "default", -- "noseason", "veryshortseason", "shortseason", "default", "longseason", "verylongseason", "random"
@@ -21,7 +21,7 @@ return {
                weather = "rare", -- "never", "rare", "default", "often", "always"
                wildfires = "never", -- "never", "rare", "default", "often", "always"
                winter = "shortseason", -- "noseason", "veryshortseason", "shortseason", "default", "longseason", "verylongseason", "random"
-               world_size = "large", -- "default", "medium", "large", "huge"
+               world_size = "huge" -- "default", "medium", "large", "huge"
        },
        animals = { -- "never", "rare", "default", "often", "always"
                alternatehunt = "default",
@@ -41,7 +41,7 @@ return {
                perd = "default",
                pigs = "default",
                rabbits = "often",
-               tallbirds = "default",
+               tallbirds = "default"
        },
        monsters = { -- "never", "rare", "default", "often", "always"
                bearger = "never", --
@@ -58,7 +58,7 @@ return {
                merm = "default", --
                spiders = "default", --
                tentacles = "default", --
-               walrus = "default", --
+               walrus = "default" --
        },
        resources = { -- "never", "rare", "default", "often", "always"
                flint = "often",
@@ -72,6 +72,6 @@ return {
                rock_ice = "often",
                sapling = "often",
                trees = "often",
-               tumbleweed = "default",
-       },
+               tumbleweed = "default"
+       }
 }
