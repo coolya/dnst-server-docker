@@ -1,7 +1,7 @@
 #!/bin/bash
 ls -al /dnst-conf
 mkdir -p /root/.klei/DoNotStarveTogether
-ln -s /dnst-conf /root/.klei/DoNotStarveTogether
+ln -s /dnst-conf/ /root/.klei/DoNotStarveTogether
 cd  /root/.klei/DoNotStarveTogether
 pwd
 ls -al
