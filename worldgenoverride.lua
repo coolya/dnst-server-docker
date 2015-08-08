@@ -21,7 +21,7 @@ return {
                weather = "rare", -- "never", "rare", "default", "often", "always"
                wildfires = "never", -- "never", "rare", "default", "often", "always"
                winter = "shortseason", -- "noseason", "veryshortseason", "shortseason", "default", "longseason", "verylongseason", "random"
-               world_size = "huge" -- "default", "medium", "large", "huge"
+               world_size = "large" -- "default", "medium", "large", "huge"
        },
        animals = { -- "never", "rare", "default", "often", "always"
                alternatehunt = "default",
