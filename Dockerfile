@@ -1,6 +1,6 @@
 FROM debian:jessie
 MAINTAINER Kolja Dummann <kolja,dummann@logv.ws>
-RUN dpkg --add-architecture i386 
+#RUN dpkg --add-architecture i386 
 RUN apt-get update 
 RUN apt-get install -y curl lib32gcc1 lib32stdc++6 libgcc1 libcurl4-gnutls-dev:i386 
 RUN apt-get clean 
