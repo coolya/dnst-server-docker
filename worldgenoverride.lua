@@ -32,7 +32,7 @@ return {
                birds = "default",
                butterfly = "default",
                buzzard = "default",
-               catcoon = "default",
+               catcoon = "often",
                frogs = "rare",
                hunt = "often",
                lightninggoat = "default",
@@ -48,8 +48,8 @@ return {
                chess = "default", -- clockworks
                deciduousmonster = "rare", -- treequads
                deerclops = "never", -- deerclops
-               dragonfly = "never", -- dragonfly
-               goosemoose = "never", -- ???
+               dragonfly = "rare", -- dragonfly
+               goosemoose = "rare", -- ???
                houndmound = "default", -- houndmound
                hounds = "rare", -- houndatacks
                krampus = "never", -- krampusse
