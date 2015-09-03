@@ -44,21 +44,21 @@ return {
                tallbirds = "default"
        },
        monsters = { -- "never", "rare", "default", "often", "always"
-               bearger = "never", --
-               chess = "default", --
-               deciduousmonster = "rare", --
-               deerclops = "never", --
-               dragonfly = "never", --
-               goosemoose = "never", --
-               houndmound = "default", --
-               hounds = "rare", --
-               krampus = "never", --
-               liefs = "rare", --
-               lureplants = "rare", --
-               merm = "default", --
-               spiders = "default", --
-               tentacles = "default", --
-               walrus = "default" --
+               bearger = "never", -- bearger
+               chess = "default", -- clockworks
+               deciduousmonster = "rare", -- treequads
+               deerclops = "never", -- deerclops
+               dragonfly = "never", -- dragonfly
+               goosemoose = "never", -- ???
+               houndmound = "default", -- houndmound
+               hounds = "rare", -- houndatacks
+               krampus = "never", -- krampusse
+               liefs = "rare", -- poison birchnut tree
+               lureplants = "rare", -- lureplants
+               merm = "default", -- merms
+               spiders = "default", -- spiders
+               tentacles = "default", -- tentacles
+               walrus = "default" -- walrus
        },
        resources = { -- "never", "rare", "default", "often", "always"
                flint = "often",
